@@ -13,9 +13,9 @@
 - **Preprocessing:** median imputation + standard scaling for numeric columns, one-hot encoding for `Month`, `VisitorType` and `Weekend`, all inside each saved pipeline. Class weights are balanced for Logistic Regression, Decision Tree and SVM.
 
 ## c. GitHub repository
-TODO: paste your repository link here.
+[Git hub](https://github.com/ManobharathAI/-Online-Shopper-Purchase-Prediction)
 
-Live app: TODO: paste your Streamlit Community Cloud link here.
+[Live Stream Lit app](https://gtwckxfpl6ezqmtab85f8c.streamlit.app/)
 
 ## d. Models used
 
