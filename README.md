@@ -5,7 +5,7 @@
 
 ## b. Dataset description
 - **Source:** Online Shoppers Purchasing Intention Dataset, UCI Machine Learning Repository (id 468): https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
-- **Instances:** 12,330 sessions (the notebook drops exact duplicate rows; fill in the final count from its output)
+- **Instances:** 12,330 sessions 
 - **Features:** 17 (10 numeric, 7 categorical/integer-coded): `Administrative`, `Administrative_Duration`, `Informational`, `Informational_Duration`, `ProductRelated`, `ProductRelated_Duration`, `BounceRates`, `ExitRates`, `PageValues`, `SpecialDay`, `Month`, `OperatingSystems`, `Browser`, `Region`, `TrafficType`, `VisitorType`, `Weekend`
 - **Target:** `Revenue` (binary: True = session ended in a purchase)
 - **Class balance:** about 15% purchases, so imbalanced
